@@ -1,6 +1,6 @@
 ### - 👋 Hi, my name is Matei Paleacu
 ### - 👀 I'm in the Computer Science program at Carleton University in the Internet Security stream.
-### - 👯 I'm looking for a Co-op opportunity for Summer 2022, Avalabilty is from May - August.
+### - 👯 I'm looking for a Co-op opportunity for Fall 2022, Avalabilty is from September - December.
 ### - 📫 How to reach me: School email:MATEIPALEACU@cmail.carleton.ca // Personal emal: mateipaleacu@gmail.com // Mobile number: (613)-324 - 1456
 <!--
 **Matei-Paleacu/Matei-Paleacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
